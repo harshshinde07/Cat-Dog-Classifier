@@ -8,3 +8,22 @@ To run, open the terminal and issue the command-
 ```
 python catdog_classifier.py
 ```
+
+### Prerequisites
+
+Please note that you need keras, easygui opencv installed to run this.
+You can easily install this using pip -
+
+keras- 
+```
+pip install keras
+```
+
+easygui-
+```
+pip install easygui
+```
+opency-
+```
+pip install opencv-python
+```
