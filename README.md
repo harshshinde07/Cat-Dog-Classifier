@@ -12,7 +12,7 @@ python catdog_classifier.py
 ### Prerequisites
 
 Please note that you need keras, easygui opencv installed to run this.
-You can easily install this using pip -
+You can easily install this using pip.
 
 keras- 
 ```
